@@ -1,0 +1,4 @@
+ShowroomService/ShowroomService/bin
+ShowroomService/ShowroomService/obj
+ShowroomService/ShowroomService.Tests/bin
+ShowroomService/ShowroomService.Tests/obj
